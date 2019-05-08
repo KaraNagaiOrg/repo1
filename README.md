@@ -1,5 +1,3 @@
 # repo1
 
-Some proper text.
-More proper text.
-And more.
+This repo is used to test Commit Status Publisher and Pull Requests Plugin
