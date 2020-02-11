@@ -19,7 +19,7 @@
     "description" : "Secured Admin-only calls"
   }, {
     "name" : "developers",
-    "description" : "Operations available to regular developers"
+    "description" : "Operations available to regular developers."
   } ],
   "schemes" : [ "https" ],
   "paths" : {
