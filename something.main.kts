@@ -1,1 +1,1 @@
-println("I am something indeed!")
+println("I am something!")
