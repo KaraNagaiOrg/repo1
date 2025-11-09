@@ -34,13 +34,13 @@ jobs:
           echo Add other actions to build,
           sleep 5
           echo test, and deploy your project
-    test:
-      runs-on: ubuntu-latest
+  test:
+    runs-on: ubuntu-latest
 
-      steps:
-        - name: Run another script
-          run: |
-            echo Another!
-            sleep 5
-            echo Hey
+    steps:
+      - name: Run another script
+        run: |
+          echo Another!
+          sleep 5
+          echo Hey
           
